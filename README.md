@@ -47,18 +47,17 @@ The Discount Rules Engine for the retail store is a Scala application designed t
 ### Database Table Creation Statement:
 
 ```sql
-CREATE TABLE orders (
-    order_date DATE,
-    expiry_date DATE,
-    days_to_expiry NUMBER,
-    product_category VARCHAR2(100),
-    product_name VARCHAR2(100),
-    quantity NUMBER,
-    unit_price NUMBER,
-    channel VARCHAR2(100),
-    payment_method VARCHAR2(100),
-    discount NUMBER,
-    total_price NUMBER
+CREATE TABLE ORDERS
+(
+  ORDERDATE      DATE,
+  PRODUCTNAME    VARCHAR2(100 BYTE),
+  EXPIRYDATE     DATE,
+  QUANTITY       NUMBER,
+  UNITPRICE      NUMBER,
+  CHANNEL        VARCHAR2(50 BYTE),
+  PAYMENTMETHOD  VARCHAR2(50 BYTE),
+  DISCOUNT       NUMBER,
+  FINAL_PRICE    NUMBER
 );
 
 ```
