@@ -1,0 +1,30 @@
+Timestamp: 2024-05-13T10:55:39.964Z	LogLevel: Info/Debug	Message: Program Started
+Timestamp: 2024-05-13T10:55:41.190Z	LogLevel: Debug	Message: Successfully Opened database connection
+Timestamp: 2024-05-13T10:55:41.369Z	LogLevel: INFO	Message: Batch insert executed successfully.
+Timestamp: 2024-05-13T10:55:41.373Z	LogLevel: Info	Message: Successfully inserted into database
+Timestamp: 2024-05-13T10:55:41.373Z	LogLevel: Debug	Message: Closed database connection
+Timestamp: 2024-05-13T10:55:41.373Z	LogLevel: Info/Debug	Message: Program Finished
+Timestamp: 2024-05-13T11:01:36.813Z	LogLevel: Info/Debug	Message: Program Started
+Timestamp: 2024-05-13T11:01:38.001Z	LogLevel: Debug	Message: Successfully Opened database connection
+Timestamp: 2024-05-13T11:01:38.184Z	LogLevel: INFO	Message: Batch insert executed successfully.
+Timestamp: 2024-05-13T11:01:38.188Z	LogLevel: Info	Message: Successfully inserted into database
+Timestamp: 2024-05-13T11:01:38.188Z	LogLevel: Debug	Message: Closed database connection
+Timestamp: 2024-05-13T11:01:38.188Z	LogLevel: Info/Debug	Message: Program Finished
+Timestamp: 2024-05-13T11:05:09.226Z	LogLevel: Info/Debug	Message: Program Started
+Timestamp: 2024-05-13T11:05:10.539Z	LogLevel: Debug	Message: Successfully Opened database connection
+Timestamp: 2024-05-13T11:05:10.714Z	LogLevel: INFO	Message: Batch insert executed successfully.
+Timestamp: 2024-05-13T11:05:10.718Z	LogLevel: Info	Message: Successfully inserted into database
+Timestamp: 2024-05-13T11:05:10.718Z	LogLevel: Debug	Message: Closed database connection
+Timestamp: 2024-05-13T11:05:10.718Z	LogLevel: Info/Debug	Message: Program Finished
+Timestamp: 2024-05-13T11:06:27.904Z	LogLevel: Info/Debug	Message: Program Started
+Timestamp: 2024-05-13T11:06:29.139Z	LogLevel: Debug	Message: Successfully Opened database connection
+Timestamp: 2024-05-13T11:06:29.320Z	LogLevel: INFO	Message: Batch insert executed successfully.
+Timestamp: 2024-05-13T11:06:29.324Z	LogLevel: Info	Message: Successfully inserted into database
+Timestamp: 2024-05-13T11:06:29.324Z	LogLevel: Debug	Message: Closed database connection
+Timestamp: 2024-05-13T11:06:29.324Z	LogLevel: Info/Debug	Message: Program Finished
+Timestamp: 2024-05-13T11:06:55.586Z	LogLevel: Info/Debug	Message: Program Started
+Timestamp: 2024-05-13T11:06:56.848Z	LogLevel: Debug	Message: Successfully Opened database connection
+Timestamp: 2024-05-13T11:06:57.027Z	LogLevel: INFO	Message: Batch insert executed successfully.
+Timestamp: 2024-05-13T11:06:57.031Z	LogLevel: Info	Message: Successfully inserted into database
+Timestamp: 2024-05-13T11:06:57.031Z	LogLevel: Debug	Message: Closed database connection
+Timestamp: 2024-05-13T11:06:57.031Z	LogLevel: Info/Debug	Message: Program Finished
